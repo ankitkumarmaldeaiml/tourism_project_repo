@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/2d6d266d7800492c862cf4121dc598e1/artifacts
+end_time: 1770577913651
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 2d6d266d7800492c862cf4121dc598e1
+run_name: powerful-donkey-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577909732
+status: 3
+tags: []
+user_id: root

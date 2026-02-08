@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/26eb391ffb934a5086c8b83a590bf5f8/artifacts
+end_time: 1770578111237
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 26eb391ffb934a5086c8b83a590bf5f8
+run_name: thoughtful-gnu-230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770578107316
+status: 3
+tags: []
+user_id: root

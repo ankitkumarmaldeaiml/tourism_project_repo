@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/28c0995855614f86b5b614f4245d7206/artifacts
+end_time: 1770577706687
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 28c0995855614f86b5b614f4245d7206
+run_name: adventurous-cod-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577702755
+status: 3
+tags: []
+user_id: root

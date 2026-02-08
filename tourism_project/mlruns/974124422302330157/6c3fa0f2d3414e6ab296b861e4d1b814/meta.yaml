@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/6c3fa0f2d3414e6ab296b861e4d1b814/artifacts
+end_time: 1770577770652
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 6c3fa0f2d3414e6ab296b861e4d1b814
+run_name: upbeat-vole-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577766724
+status: 3
+tags: []
+user_id: root

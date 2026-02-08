@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/2207cc1dfd1d43638182dbc5bc4fae73/artifacts
+end_time: 1770578046598
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 2207cc1dfd1d43638182dbc5bc4fae73
+run_name: redolent-calf-692
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770578042647
+status: 3
+tags: []
+user_id: root

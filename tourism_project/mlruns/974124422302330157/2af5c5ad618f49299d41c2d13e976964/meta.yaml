@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/2af5c5ad618f49299d41c2d13e976964/artifacts
+end_time: 1770577839830
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 2af5c5ad618f49299d41c2d13e976964
+run_name: indecisive-toad-686
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577835871
+status: 3
+tags: []
+user_id: root

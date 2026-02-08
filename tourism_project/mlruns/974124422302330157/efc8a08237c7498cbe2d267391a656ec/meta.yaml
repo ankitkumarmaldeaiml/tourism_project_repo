@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/efc8a08237c7498cbe2d267391a656ec/artifacts
+end_time: 1770577987500
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: efc8a08237c7498cbe2d267391a656ec
+run_name: unequaled-auk-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577983554
+status: 3
+tags: []
+user_id: root

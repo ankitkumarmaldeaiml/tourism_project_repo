@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/7cbc2f692d8c4fbf9766028245c46770/artifacts
+end_time: 1770578091497
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 7cbc2f692d8c4fbf9766028245c46770
+run_name: upbeat-wolf-323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770578087573
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/49dc1cccafb54af691128cc7a9492e72/artifacts
+end_time: 1770577952999
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 49dc1cccafb54af691128cc7a9492e72
+run_name: mercurial-loon-540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577949052
+status: 3
+tags: []
+user_id: root

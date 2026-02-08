@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/63602d63cd5742f7bf59e5085b9c24e3/artifacts
+end_time: 1770578002285
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 63602d63cd5742f7bf59e5085b9c24e3
+run_name: painted-fish-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577998352
+status: 3
+tags: []
+user_id: root

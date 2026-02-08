@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/372f6999499d43228f4d1837ddaef405/artifacts
+end_time: 1770577696860
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 372f6999499d43228f4d1837ddaef405
+run_name: masked-steed-265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577692919
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/369bd1ab62f54b07b8d3e54cfb6492f0/artifacts
+end_time: 1770577790590
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 369bd1ab62f54b07b8d3e54cfb6492f0
+run_name: ambitious-zebra-890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577786675
+status: 3
+tags: []
+user_id: root

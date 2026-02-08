@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/724b69e0c7cb41a5985b646d5cda6c95/artifacts
+end_time: 1770578031840
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 724b69e0c7cb41a5985b646d5cda6c95
+run_name: upset-swan-289
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770578027890
+status: 3
+tags: []
+user_id: root

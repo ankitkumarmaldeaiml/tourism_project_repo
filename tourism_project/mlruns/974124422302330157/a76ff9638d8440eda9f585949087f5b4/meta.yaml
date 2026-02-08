@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/a76ff9638d8440eda9f585949087f5b4/artifacts
+end_time: 1770577775559
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: a76ff9638d8440eda9f585949087f5b4
+run_name: defiant-lark-282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577771637
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/9f745491f2e448ba9b8876b8c044bf85/artifacts
+end_time: 1770577721439
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 9f745491f2e448ba9b8876b8c044bf85
+run_name: merciful-ray-707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577717505
+status: 3
+tags: []
+user_id: root

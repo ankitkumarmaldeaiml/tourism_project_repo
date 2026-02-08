@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/665898e4977e4e5db0b3f68fff5c6bd1/artifacts
+end_time: 1770578116154
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 665898e4977e4e5db0b3f68fff5c6bd1
+run_name: languid-lark-515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770578112223
+status: 3
+tags: []
+user_id: root

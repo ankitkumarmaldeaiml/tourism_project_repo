@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/bc40593ec1d048a1a5d902388bdd6a55/artifacts
+end_time: 1770577889039
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: bc40593ec1d048a1a5d902388bdd6a55
+run_name: burly-shrike-788
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577885111
+status: 3
+tags: []
+user_id: root

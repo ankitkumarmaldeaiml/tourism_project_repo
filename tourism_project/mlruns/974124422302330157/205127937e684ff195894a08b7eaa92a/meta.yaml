@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/205127937e684ff195894a08b7eaa92a/artifacts
+end_time: 1770577711595
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 205127937e684ff195894a08b7eaa92a
+run_name: nimble-calf-227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577707660
+status: 3
+tags: []
+user_id: root

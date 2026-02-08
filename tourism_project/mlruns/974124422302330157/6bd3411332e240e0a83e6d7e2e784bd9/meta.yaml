@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/974124422302330157/6bd3411332e240e0a83e6d7e2e784bd9/artifacts
+end_time: 1770577657529
+entry_point_name: ''
+experiment_id: '974124422302330157'
+lifecycle_stage: active
+run_id: 6bd3411332e240e0a83e6d7e2e784bd9
+run_name: loud-hare-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770577653370
+status: 3
+tags: []
+user_id: root
